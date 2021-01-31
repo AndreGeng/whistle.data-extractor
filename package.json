@@ -1,0 +1,10 @@
+{
+  "name": "whistle.data-extractor",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "koa": "^2.13.1",
+    "koa-bodyparser": "^4.3.0"
+  }
+}
