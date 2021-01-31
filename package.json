@@ -1,11 +1,12 @@
 {
   "name": "whistle.data-extractor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "dependencies": {
     "axios": "^0.21.1",
     "koa": "^2.13.1",
     "koa-bodyparser": "^4.3.0"
   },
-  "keywords":["whistle", "plugin", "proxy"]
+  "keywords":["whistle", "plugin", "proxy"],
+  "homepage": "https://github.com/AndreGeng/whistle.data-extractor"
 }
